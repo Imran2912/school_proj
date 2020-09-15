@@ -1,2 +1,1 @@
-# school_proj
-kids school project
+This is a static web site for schools .

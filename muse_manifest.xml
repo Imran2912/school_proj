@@ -1,0 +1,218 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/kids" resolutions="1x" timestamp="1488120619289">
+  <folder name="css">
+    <file name="site_global.css" crc="4289263621"/>
+    <file name="master_a-master.css" crc="4026938179" ref="index:teachers:about:gallery:classes:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="4238860621" ref="index:teachers:about:gallery:classes:contact"/>
+    <file name="index.css" crc="168584602" ref="index"/>
+    <file name="nomq_index.css" crc="3765958658" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="teachers.css" crc="297372660" ref="teachers"/>
+    <file name="nomq_teachers.css" crc="446960304" ref="teachers"/>
+    <file name="iefonts_teachers.css" crc="3824530138" ref="teachers"/>
+    <file name="about.css" crc="172042376" ref="about"/>
+    <file name="nomq_about.css" crc="3889522647" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="gallery.css" crc="374367535" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="4054230395" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="3824530138" ref="gallery"/>
+    <file name="classes.css" crc="4280569869" ref="classes"/>
+    <file name="nomq_classes.css" crc="21967018" ref="classes"/>
+    <file name="iefonts_classes.css" crc="3824530138" ref="classes"/>
+    <file name="contact.css" crc="4184520762" ref="contact"/>
+    <file name="nomq_contact.css" crc="353889108" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="webpro.js" crc="3770351119" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="require.js" crc="4234670167" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u17155.php" crc="147113834" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3788995009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="about_img-u3657-fr.jpg" crc="3934584209" ref="index"/>
+    <file name="static_bg.jpg" crc="3812481099" ref="index:about">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="classes_img01.jpg" crc="89956021" ref="index:classes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="classes_img02.jpg" crc="56509430" ref="index:classes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="classes_img03.jpg" crc="3853811040" ref="index:classes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="whychooseus_bg.jpg" crc="3812481099" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whychooseus_img.jpg" crc="385105277" ref="index:about">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="event_bg-u8222-fr.png" crc="3841592977" ref="index"/>
+    <file name="events_img01.jpg" crc="89956021" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="events_img02.jpg" crc="89956021" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="events_img03.jpg" crc="89956021" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_img01.jpg" crc="522740754" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="testimonial_img02.jpg" crc="4087894487" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="testimonial_img03.jpg" crc="464428721" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="footer_bg.jpg" crc="3812481099" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about_img-u3657-fr2.jpg" crc="104694327" ref="index"/>
+    <file name="classes_img01-u5167-fr.jpg" crc="4059291399" ref="index:classes"/>
+    <file name="classes_img02-u5176-fr.jpg" crc="4199831599" ref="index:classes"/>
+    <file name="classes_img03-u5185-fr.jpg" crc="4180631214" ref="index:classes"/>
+    <file name="events_img01-u8277-fr.jpg" crc="4059291399" ref="index"/>
+    <file name="events_img02-u8585-fr.jpg" crc="4059291399" ref="index"/>
+    <file name="events_img03-u8678-fr.jpg" crc="4059291399" ref="index"/>
+    <file name="u17653.png" crc="511172532" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="u17653-a.png" crc="4246603635" ref="index:about:classes:teachers:gallery:contact"/>
+    <file name="about_img.jpg" crc="3946905709" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="classes_img01-u5167-fr2.jpg" crc="210289850" ref="index:classes"/>
+    <file name="classes_img02-u5176-fr2.jpg" crc="4054850586" ref="index:classes"/>
+    <file name="classes_img03-u5185-fr2.jpg" crc="3864432479" ref="index:classes"/>
+    <file name="events_img01-u8277-fr2.jpg" crc="210289850" ref="index"/>
+    <file name="events_img02-u8585-fr2.jpg" crc="210289850" ref="index"/>
+    <file name="events_img03-u8678-fr2.jpg" crc="210289850" ref="index"/>
+    <file name="about_img-u3657-fr3.jpg" crc="3906782119" ref="index"/>
+    <file name="testimonial_img01-u8971-fr.jpg" crc="293578865" ref="index:about"/>
+    <file name="testimonial_img02-u8956-fr.jpg" crc="3882131480" ref="index:about"/>
+    <file name="testimonial_img03-u8941-fr.jpg" crc="165924541" ref="index:about"/>
+    <file name="about_img-u3657-fr4.jpg" crc="202970126" ref="index"/>
+    <file name="classes_img01-u5167-fr3.jpg" crc="4287977061" ref="index:classes"/>
+    <file name="classes_img02-u5176-fr3.jpg" crc="330079449" ref="index:classes"/>
+    <file name="classes_img03-u5185-fr3.jpg" crc="426339464" ref="index:classes"/>
+    <file name="whychooseus_img-u5537-fr.jpg" crc="62271071" ref="index:about"/>
+    <file name="events_img01-u8277-fr3.jpg" crc="4287977061" ref="index"/>
+    <file name="events_img02-u8585-fr3.jpg" crc="4287977061" ref="index"/>
+    <file name="events_img03-u8678-fr3.jpg" crc="4287977061" ref="index"/>
+    <file name="testimonial_img01-u8971-fr2.jpg" crc="156998948" ref="index:about"/>
+    <file name="testimonial_img02-u8956-fr2.jpg" crc="58868949" ref="index:about"/>
+    <file name="testimonial_img03-u8941-fr2.jpg" crc="204449416" ref="index:about"/>
+    <file name="subpagebanner.jpg" crc="217220121" ref="about:classes:teachers:gallery:contact">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="subpagebanner-u10768-fr.jpg" crc="3760559703" ref="about:classes:teachers:gallery:contact"/>
+    <file name="subpagebanner-u10768-fr2.jpg" crc="3845781129" ref="about:classes:teachers:gallery:contact"/>
+    <file name="classes_img04.jpg" crc="286739756" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="classes_img05.jpg" crc="3968744975" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="classes_img06.jpg" crc="3908636796" ref="classes">
+      <caption webpage="classes" alt=""/>
+    </file>
+    <file name="classes_img04-u13904-fr.jpg" crc="366820257" ref="classes"/>
+    <file name="classes_img05-u13914-fr.jpg" crc="15778381" ref="classes"/>
+    <file name="classes_img06-u13924-fr.jpg" crc="473164613" ref="classes"/>
+    <file name="classes_img04-u13904-fr2.jpg" crc="256697099" ref="classes"/>
+    <file name="classes_img05-u13914-fr2.jpg" crc="4124782652" ref="classes"/>
+    <file name="classes_img06-u13924-fr2.jpg" crc="4112136051" ref="classes"/>
+    <file name="classes_img04-u13904-fr3.jpg" crc="239453871" ref="classes"/>
+    <file name="classes_img05-u13914-fr3.jpg" crc="3867267575" ref="classes"/>
+    <file name="classes_img06-u13924-fr3.jpg" crc="4242733521" ref="classes"/>
+    <file name="teacher_img01.jpg" crc="89786226" ref="teachers">
+      <caption webpage="teachers" alt=""/>
+    </file>
+    <file name="teacher_img02.jpg" crc="4252832314" ref="teachers">
+      <caption webpage="teachers" alt=""/>
+    </file>
+    <file name="teacher_img03.jpg" crc="248023184" ref="teachers">
+      <caption webpage="teachers" alt=""/>
+    </file>
+    <file name="teacher_img04.jpg" crc="4033871933" ref="teachers">
+      <caption webpage="teachers" alt=""/>
+    </file>
+    <file name="teacher_img05.jpg" crc="248023184" ref="teachers">
+      <caption webpage="teachers" alt=""/>
+    </file>
+    <file name="teacher_img06.jpg" crc="4252832314" ref="teachers">
+      <caption webpage="teachers" alt=""/>
+    </file>
+    <file name="teacher_img01-u15738-fr.jpg" crc="4159332926" ref="teachers"/>
+    <file name="teacher_img02-u15832-fr.jpg" crc="361732505" ref="teachers"/>
+    <file name="teacher_img03-u15954-fr.jpg" crc="424349359" ref="teachers"/>
+    <file name="teacher_img04-u16076-fr.jpg" crc="4278449215" ref="teachers"/>
+    <file name="teacher_img05-u16082-fr.jpg" crc="424349359" ref="teachers"/>
+    <file name="teacher_img06-u16093-fr.jpg" crc="361732505" ref="teachers"/>
+    <file name="teacher_img01-u15738-fr2.jpg" crc="219347396" ref="teachers"/>
+    <file name="teacher_img02-u15832-fr2.jpg" crc="4165487890" ref="teachers"/>
+    <file name="teacher_img03-u15954-fr2.jpg" crc="3806325945" ref="teachers"/>
+    <file name="teacher_img04-u16076-fr2.jpg" crc="220832135" ref="teachers"/>
+    <file name="teacher_img05-u16082-fr2.jpg" crc="3806325945" ref="teachers"/>
+    <file name="teacher_img06-u16093-fr2.jpg" crc="4165487890" ref="teachers"/>
+    <file name="teacher_img01-u15738-fr3.jpg" crc="4202065035" ref="teachers"/>
+    <file name="teacher_img02-u15832-fr3.jpg" crc="294869906" ref="teachers"/>
+    <file name="teacher_img03-u15954-fr3.jpg" crc="3887562403" ref="teachers"/>
+    <file name="teacher_img04-u16076-fr3.jpg" crc="438013633" ref="teachers"/>
+    <file name="teacher_img05-u16082-fr3.jpg" crc="3887562403" ref="teachers"/>
+    <file name="teacher_img06-u16093-fr3.jpg" crc="294869906" ref="teachers"/>
+  </folder>
+  <file name="index.php" crc="4253655443" seo="true" mt="1488120598059" redirect="true"/>
+  <file name="about.php" crc="4075497578" seo="true" mt="1488120598058" redirect="true"/>
+  <file name="classes.php" crc="3954886459" seo="true" mt="1488120598186" redirect="true"/>
+  <file name="teachers.php" crc="4237646081" seo="true" mt="1488120598364" redirect="true"/>
+  <file name="gallery.php" crc="291481964" seo="true" mt="1488120560170" redirect="true"/>
+  <file name="contact.php" crc="4153870138" seo="true" mt="1488120494631" redirect="true"/>
+</manifest>
